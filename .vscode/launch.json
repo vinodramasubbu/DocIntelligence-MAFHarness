@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Submission Builder API",
+      "type": "debugpy",
+      "request": "launch",
+      "python": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+      "module": "uvicorn",
+      "args": ["api.main:app", "--host", "127.0.0.1", "--port", "8000"],
+      "cwd": "${workspaceFolder}",
+      "envFile": "${workspaceFolder}\\.env",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Live sample (project .venv)",
+      "type": "debugpy",
+      "request": "launch",
+      "python": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+      "program": "${workspaceFolder}\\scripts\\run_sample.py",
+      "args": ["harborview"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}

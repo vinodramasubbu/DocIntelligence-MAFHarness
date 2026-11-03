@@ -1,0 +1,9 @@
+Employee group,Policy year,Class code,Payroll USD,Status
+Office East,2026,8810,520000,Active
+Office West,2026,8810,480000,Active
+Warehouse East,2026,8018,1000000,Active
+Warehouse West,2026,8018,1400000,Active
+Drivers,2026,7380,900000,Active
+Cancelled division,2026,8018,500000,Cancelled
+Prior year,2025,8810,2000000,Active
+Total,Total,,6800000,

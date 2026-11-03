@@ -1,0 +1,6 @@
+Location ID,Currency,Building,Contents,Business interruption,Status
+P1,USD,12000000,3000000,2000000,Open
+P2,EUR,8000000,1000000,500000,Open
+P3,GBP,4000000,500000,300000,Open
+P4,USD,9900000,0,0,Closed
+Total,,,,,Summary only

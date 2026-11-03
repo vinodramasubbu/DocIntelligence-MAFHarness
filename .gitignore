@@ -1,0 +1,15 @@
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+runs/
+web/node_modules/
+web/.next/
+web/*.tsbuildinfo
+agent-file-memory/
+.tools/
+.logs/
+~$*
+.~lock.*#

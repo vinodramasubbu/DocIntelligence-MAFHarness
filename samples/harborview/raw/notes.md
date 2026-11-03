@@ -1,0 +1,1 @@
+Prepare the 2026 submission valued 2026-12-31. USD throughout. Roll both three-year windows to 2024-2026. Preserve prior premium for 2024 and 2025; exclude Cancelled policies. Restate loss history from the full loss run. Net paid excludes ALAE; show ALAE separately. Update cover and all valuation/year labels.

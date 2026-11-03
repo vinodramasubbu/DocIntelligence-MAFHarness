@@ -1,0 +1,28 @@
+{
+  "name": "submission-builder",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fluentui/react-components": "^9.70.0",
+    "@fluentui/react-icons": "^2.0.310",
+    "@univerjs/presets": "1.1.0",
+    "@univerjs/preset-sheets-core": "1.1.0",
+    "next": "15.5.28",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5.9.0"
+  }
+}

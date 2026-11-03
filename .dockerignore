@@ -1,0 +1,8 @@
+.venv
+.tools
+runs
+web
+samples
+.env
+.git
+**/__pycache__
